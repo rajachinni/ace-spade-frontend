@@ -1,0 +1,23 @@
+CLAUDE.md
+  b05b23d64e952619 1-42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.23",
+  "base_commit_sha": "14b5866816c0a9c971ec249fc74085bb82276991",
+  "prompts": {
+    "b05b23d64e952619": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e77ee8a8-be66-48b4-8771-9ae780765118",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Raja Chinni <rajachinni555@gmail.com>",
+      "messages": [],
+      "total_additions": 43,
+      "total_deletions": 1,
+      "accepted_lines": 42,
+      "overriden_lines": 0
+    }
+  }
+}
