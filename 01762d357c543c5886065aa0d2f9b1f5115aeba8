@@ -1,0 +1,25 @@
+src/pages/GamePage.tsx
+  47e5ad1ede15ce01 303
+src/components/GameHeader.tsx
+  47e5ad1ede15ce01 24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.23",
+  "base_commit_sha": "01762d357c543c5886065aa0d2f9b1f5115aeba8",
+  "prompts": {
+    "47e5ad1ede15ce01": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3c20e13d-58e4-4c05-a04b-8f0730d404ec",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Raja Chinni <rajachinni555@gmail.com>",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 2,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}
