@@ -1,0 +1,27 @@
+src/types/game.ts
+  47e5ad1ede15ce01 110-116,123
+src/components/ChatPanel.tsx
+  47e5ad1ede15ce01 13-23,44-47,49,146-206,229,232,287-290,317-365,418-434,489,492-500,506-597
+src/services/websocket.ts
+  47e5ad1ede15ce01 121-122
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.23",
+  "base_commit_sha": "db2b4d08dc9659770cde8bc1cbece8e8dc1385f6",
+  "prompts": {
+    "47e5ad1ede15ce01": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3c20e13d-58e4-4c05-a04b-8f0730d404ec",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Raja Chinni <rajachinni555@gmail.com>",
+      "messages": [],
+      "total_additions": 261,
+      "total_deletions": 14,
+      "accepted_lines": 261,
+      "overriden_lines": 0
+    }
+  }
+}
