@@ -1,0 +1,23 @@
+src/components/ChatPanel.tsx
+  47e5ad1ede15ce01 2-3,11-12,33-34,37,39-43,45,54-56,62-64,68-85,89-100,104-107,109,111,113,120-125,127-128,229,249,251,255-265,412,414-416,421-458
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.23",
+  "base_commit_sha": "2f72131ed53092a90d6c0108a89e49daea98858a",
+  "prompts": {
+    "47e5ad1ede15ce01": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3c20e13d-58e4-4c05-a04b-8f0730d404ec",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Raja Chinni <rajachinni555@gmail.com>",
+      "messages": [],
+      "total_additions": 127,
+      "total_deletions": 22,
+      "accepted_lines": 127,
+      "overriden_lines": 0
+    }
+  }
+}
